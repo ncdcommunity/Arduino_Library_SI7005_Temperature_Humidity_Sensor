@@ -30,7 +30,7 @@ The SI7005 is a digital relative humidity and temperature sensor.
 
 Applications:
 
-• Temperature and humidity sensor elements,an analog-to-digital converter,signal processing,calibration data, and an I2C host interface.
+• Respiratory therapy,white goods,asset/goods tracking and automotive climate control.
 
 How to Use the SI7005 Arduino Library
 
